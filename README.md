@@ -1,4 +1,4 @@
-How to Run Jekyll on Windows
+How to Run Jekyll on Windows 
 ============================
 
 [Jekyll](http://jekyllrb.com), a simple, blog-aware, static site generator, is very easy to set up on Mac OS X or Linux. On Windows, not so much. This guide is here to help.
